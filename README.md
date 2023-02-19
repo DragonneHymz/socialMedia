@@ -1,0 +1,1 @@
+This project is an attempt to recreate a social media app where users can post pictures with captions. Has a feature to like posts and a feature to follow people. This is just a project for fun and is incomplete.
